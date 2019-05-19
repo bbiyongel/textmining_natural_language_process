@@ -1,20 +1,3 @@
-git init
-
-git remote add origin https://github.com/bbiyongel/textmining_natural_language_process.git
-
-
-
-git pull origin master # github에서 땡겨오기
-
-
-
-
-git status
-
-git add . # 변경된 모든 파일 tracking 
-
-git commit -m "message"
-
-git push origin +master # github으로 반영하기 
-git push -u origin +master
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:60441e1dad951ed1aff70afae9c55de68d9c5863d6f83dbb621ea2dc667c1b30
+size 325

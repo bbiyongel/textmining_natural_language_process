@@ -1,25 +1,3 @@
-JPype1==0.6.3
-Pillow==5.4.1
-#scikit-learn==0.20.3
-sklearn
-scipy==1.2.1
-seaborn==0.9.0
-tensorflow==1.13.1
-wordcloud==1.5.0
-gensim
-konlpy
-customized_konlpy
-nltk
-pandas
-numpy
-matplotlib
-seaborn
-re
-bs4
-selenium
-hgtk
-plotnine
-tika
-textteaser
-pytesseract
-tensorflow==2.0.0-alpha0 
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df1527e83178e92a258376f9e6794f725eacad96a240c261db52b914dc60059
+size 298
